@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sanImagesresized</folder>
+	<filename>image21.jpeg</filename>
+	<path>/Users/krishna/Creative_Man/AI_ML/JobPrep/SanitizerPOC/sanImagesresized/image21.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sanitizer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>77</xmin>
+			<ymin>26</ymin>
+			<xmax>201</xmax>
+			<ymax>312</ymax>
+		</bndbox>
+	</object>
+</annotation>
