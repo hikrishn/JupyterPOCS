@@ -1,0 +1,7 @@
+vcgencmd get_camera
+git clone https://github.com/ultralytics/yolov5
+cd yolov5/
+pip3 install -r requirements.txt
+python3 detect.py --source data/images --weights yolov5s.pt --conf 0.25
+git clone https://github.com/hikrishn/JupyterPOCS
+python3 detect.py --source 0 --weights ~/JupyterPOCS/Sanitizer_Yolo5s/best.pt  --conf 0.4
